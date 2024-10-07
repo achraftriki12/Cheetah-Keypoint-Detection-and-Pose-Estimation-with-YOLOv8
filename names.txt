@@ -1,0 +1,35 @@
+Ricky Jericevich, January 2021
+
+James_Test1 = 2017_08_29
+James_Test2 = 2017_09_02
+James_Test3 = 2017_09_03
+		
+James_Test1Cheetah1, JamesTest2Cheetah1                      = Jules
+James_Test1Cheetah2, JamesTest2Cheetah2, James_Test3Cheetah2 = Phantom
+James_Test1Cheetah3,                     James_Test3Cheetah1 = Zorro
+
+Cheetah1Flick1_1CAM1 = 2017_09_03 top zorro flick1_1
+Cheetah1Flick1_1CAM4 = 2017_09_03 top zorro flick1_1
+Cheetah2Flick1_1CAM1 = 2017_08_29 top phantom flick1_1
+Cheetah2Flick1_1CAM2 = 2017_08_29 top phantom flick1_1
+Cheetah2Flick1_1CAM3 = 2017_08_29 top phantom flick1_1
+Cheetah2Flick1_1CAM4 = 2017_08_29 top phantom flick1_1
+Cheetah2Run1_1CAM1   = 2017_08_29 top phantom run1_1
+Cheetah2Run1_1CAM2   = 2017_08_29 top phantom run1_1
+Cheetah2Run1_1CAM3   = 2017_08_29 top phantom run1_1
+Cheetah2Run1_1CAM4   = 2017_08_29 top phantom run1_1
+Cheetah2Run1_1CAM5   = 2017_08_29 top phantom run1_1
+Cheetah3Flick1CAM2   = 2017_08_29 top zorro flick1_2
+Cheetah3Flick1CAM4   = 2017_08_29 top zorro flick1_2
+Cheetah3Flick1CAM6   = 2017_08_29 top zorro flick1_2
+Cheetah3Flick2CAM9   = 2017_08_29 bottom zorro flick2
+Cheetah3Flick2CAM12  = 2017_08_29 bottom zorro flick2
+
+Must still sort out Cheetah1Flick1CAM*. Possible groupings _could_ be:
+
+Cheetah1Flick1CAM1 = 2017_12_10 top phantom run1
+Cheetah1Flick1CAM2 = 2017_12_10 top phantom run1    or 2017_08_29 top phantom flick1_1
+Cheetah1Flick1CAM4 = 2017_12_12 top cetane run1_1   or 2017_08_29 top phantom flick1_1
+Cheetah1Flick1CAM5 = 2017_12_12 top cetane run1_1
+Cheetah1Flick1CAM6 = 2017_12_12 top cetane run1_1   or 2017_08_29 top phantom flick1_1
+Cheetah1Flick1CAM7 = 2017_08_29 bottom zorro flick2
