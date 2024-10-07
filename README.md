@@ -76,7 +76,7 @@ Key scripts for visualization:
 
 ### Sample Visualizations
 
-![Cheetah Pose Estimation](labeled_data/sample_visualization.png)
+![Cheetah Pose Estimation](runs/pose/train64/test466.png)
 
 ### Metrics
 
