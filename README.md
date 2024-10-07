@@ -12,8 +12,7 @@ This project focuses on using the YOLOv8n-pose model for detecting keypoints and
 - [Visualization](#visualization)
 - [Results](#results)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributors](#contributors)
+
 
 ## Introduction
 
@@ -60,7 +59,7 @@ The training process involves using the converted YOLO-formatted dataset with ke
 - Evaluation: Mean Average Precision (mAP) and Keypoint Localization Accuracy (KLA) for model evaluation.
 
 ### Steps:
-1. Install dependencies (see [Installation](#installation))
+1. Install dependencies 
 2. Run the preprocessing script to convert raw annotations to YOLO format
 3. Train the model using the YOLOv8 framework
 
