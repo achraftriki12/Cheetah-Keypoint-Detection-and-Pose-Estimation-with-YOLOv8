@@ -1,6 +1,6 @@
 # Cheetah Keypoint Detection and Pose Estimation with YOLOv8
 
-This project focuses on using the YOLOv8n-pose model for detecting keypoints and pose estimation of cheetahs using the **AcinoSet** dataset. The dataset consists of cheetah images with labeled keypoints. This repository includes all necessary scripts for preprocessing, converting annotations to YOLO format, training the model, and visualizing the results.
+This project focuses on using the YOLOv8n-pose model for detecting keypoints and pose estimation of cheetahs using the **AcinoSet** dataset. This dataset consists of cheetah images with labeled keypoints. This repository includes all necessary scripts for preprocessing, converting annotations to YOLO format, training the model, and visualizing the results.
 
 ## Table of Contents
 
